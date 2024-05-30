@@ -1,0 +1,14 @@
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\bin\Debug\net8.0\ConsoleProject.exe
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\bin\Debug\net8.0\ConsoleProject.deps.json
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\bin\Debug\net8.0\ConsoleProject.runtimeconfig.json
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\bin\Debug\net8.0\ConsoleProject.dll
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\bin\Debug\net8.0\ConsoleProject.pdb
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.AssemblyInfo.cs
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.dll
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\obj\Debug\net8.0\refint\ConsoleProject.dll
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.pdb
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.genruntimeconfig.cache
+C:\Users\Yigid\OneDrive\Masaüstü\Fikstür\Staj Projesi\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ref\ConsoleProject.dll
